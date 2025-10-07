@@ -1,0 +1,758 @@
+{
+  "title": "v3",
+  "links": {},
+  "modules": [
+    {
+      "title": "Introduction to Mouse Launchers",
+      "topics": [
+        {
+          "title": "Overview",
+          "type": "instruction",
+          "path": "README.md",
+          "id": "2afa29c790ee420d87671ed57e57778a",
+          "state": "stable",
+          "description": "Course introduction and objectives."
+        },
+        {
+          "title": "What is a Mouse Launcher?",
+          "type": "instruction",
+          "path": "instruction/what-is-a-mouse-launcher/what-is-a-mouse-launcher.md",
+          "id": "33f989d723ca4076a0c42c0f0f7064d2",
+          "state": "stub",
+          "description": "Defining mouse launchers and their purpose."
+        },
+        {
+          "title": "Applications of Mouse Launchers",
+          "type": "instruction",
+          "path": "instruction/applications-of-mouse-launchers/applications-of-mouse-launchers.md",
+          "id": "7c20ade518ff41b7bf2defb07bf20bd8",
+          "state": "stub",
+          "description": "Exploring various uses of mouse launchers in different fields."
+        },
+        {
+          "title": "Basic Principles of Operation",
+          "type": "instruction",
+          "path": "instruction/basic-principles-of-operation/basic-principles-of-operation.md",
+          "id": "0ecff8dbd89f49e8a0cf5eaa3e4704cf",
+          "state": "stub",
+          "description": "Understanding the fundamental concepts behind mouse launcher functionality."
+        },
+        {
+          "title": "Types of Mouse Launchers",
+          "type": "instruction",
+          "path": "instruction/types-of-mouse-launchers/types-of-mouse-launchers.md",
+          "id": "f3a25f7c2e9742b492593ba532be4fa5",
+          "state": "stub",
+          "description": "Overview of different launcher designs and their advantages."
+        },
+        {
+          "title": "Safety Considerations",
+          "type": "instruction",
+          "path": "instruction/safety-considerations/safety-considerations.md",
+          "id": "7378f0c3010344808089d4e805dfa585",
+          "state": "stub",
+          "description": "Importance of safety when working with mouse launchers."
+        },
+        {
+          "title": "Ethical Considerations",
+          "type": "instruction",
+          "path": "instruction/ethical-considerations/ethical-considerations.md",
+          "id": "c6ebea2f56324bf891b1e83512f19cf0",
+          "state": "stub",
+          "description": "Discussing the ethical implications of using mouse launchers."
+        },
+        {
+          "title": "Future Trends",
+          "type": "instruction",
+          "path": "instruction/future-trends/future-trends.md",
+          "id": "1e9228d2cacc401786028d032e3288a7",
+          "state": "stub",
+          "description": "Exploring potential future developments in mouse launcher technology."
+        },
+        {
+          "title": "Legal Regulations",
+          "type": "instruction",
+          "path": "instruction/legal-regulations/legal-regulations.md",
+          "id": "3f2e066682d8403cbcc8170b72f73302",
+          "state": "stub",
+          "description": "Understanding the legal aspects of mouse launcher ownership and usage."
+        },
+        {
+          "title": "Historical Context",
+          "type": "instruction",
+          "path": "instruction/historical-context/historical-context.md",
+          "id": "ad620a9a1f2a42fa927f37823563d8c4",
+          "state": "stub",
+          "description": "A brief history of mouse launchers and their evolution."
+        },
+        {
+          "title": "Mouse Launcher Terminology",
+          "type": "instruction",
+          "path": "instruction/mouse-launcher-terminology/mouse-launcher-terminology.md",
+          "id": "2bc02d0c948546e5bc7072d767467507",
+          "state": "stub",
+          "description": "Key terms and definitions related to mouse launchers."
+        },
+        {
+          "title": "Quiz 1: Introduction to Mouse Launchers",
+          "type": "instruction",
+          "path": "instruction/quiz-1-introduction-to-mouse-launchers/quiz-1-introduction-to-mouse-launchers.md",
+          "id": "044cd5a08cb54a45bfdeed3868c24edc",
+          "state": "stub",
+          "description": "Test your understanding of the basic concepts."
+        }
+      ]
+    },
+    {
+      "title": "Mechanical Design Principles",
+      "topics": [
+        {
+          "title": "Materials Selection",
+          "type": "instruction",
+          "path": "instruction/materials-selection/materials-selection.md",
+          "id": "d838f09547114234b922d5c8cf707bb8",
+          "state": "stub",
+          "description": "Choosing the right materials for different launcher components."
+        },
+        {
+          "title": "Stress and Strain Analysis",
+          "type": "instruction",
+          "path": "instruction/stress-and-strain-analysis/stress-and-strain-analysis.md",
+          "id": "6fbfa0dcf018433f95b0d40eacec0504",
+          "state": "stub",
+          "description": "Analyzing the stresses and strains on critical parts."
+        },
+        {
+          "title": "Kinematics and Dynamics",
+          "type": "instruction",
+          "path": "instruction/kinematics-and-dynamics/kinematics-and-dynamics.md",
+          "id": "20f477c1b4b6400d98eb59531a65d2e4",
+          "state": "stub",
+          "description": "Understanding the motion and forces involved in launching."
+        },
+        {
+          "title": "CAD Software Basics",
+          "type": "instruction",
+          "path": "instruction/cad-software-basics/cad-software-basics.md",
+          "id": "d87444ec667d4bc69d98b849d40b4bf1",
+          "state": "stub",
+          "description": "Introduction to using CAD software for designing launcher parts."
+        },
+        {
+          "title": "Design for Manufacturing",
+          "type": "instruction",
+          "path": "instruction/design-for-manufacturing/design-for-manufacturing.md",
+          "id": "116fc1abe82b45369fc1eb93946c3cb6",
+          "state": "stub",
+          "description": "Designing parts that are easy and cost-effective to manufacture."
+        },
+        {
+          "title": "Fasteners and Joining Techniques",
+          "type": "instruction",
+          "path": "instruction/fasteners-and-joining-techniques/fasteners-and-joining-techniques.md",
+          "id": "6e5b2943983b44f08c8560cedc3a41cf",
+          "state": "stub",
+          "description": "Selecting appropriate fasteners and joining methods."
+        },
+        {
+          "title": "Tolerance and Fit",
+          "type": "instruction",
+          "path": "instruction/tolerance-and-fit/tolerance-and-fit.md",
+          "id": "369cba14ee40460d99b45047daba3c57",
+          "state": "stub",
+          "description": "Understanding tolerance and fit for proper assembly."
+        },
+        {
+          "title": "Mechanical Advantage",
+          "type": "instruction",
+          "path": "instruction/mechanical-advantage/mechanical-advantage.md",
+          "id": "24f64d4823f94f549018623b334bc808",
+          "state": "stub",
+          "description": "Calculating and optimizing mechanical advantage in the design."
+        },
+        {
+          "title": "Spring Design",
+          "type": "instruction",
+          "path": "instruction/spring-design/spring-design.md",
+          "id": "20bc21a2bf2e4fab966921133ede8dc0",
+          "state": "stub",
+          "description": "Designing and selecting appropriate springs for the launcher."
+        },
+        {
+          "title": "Aerodynamics Principles",
+          "type": "instruction",
+          "path": "instruction/aerodynamics-principles/aerodynamics-principles.md",
+          "id": "70fad7d065354ccdb381f4ed91e8094f",
+          "state": "stub",
+          "description": "Understanding aerodynamic forces impacting the projectile."
+        },
+        {
+          "title": "Quiz 2: Mechanical Design Principles",
+          "type": "instruction",
+          "path": "instruction/quiz-2-mechanical-design-principles/quiz-2-mechanical-design-principles.md",
+          "id": "e370fa0955f8450fa5197f1a1049ffa2",
+          "state": "stub",
+          "description": "Test your knowledge of mechanical engineering concepts."
+        }
+      ]
+    },
+    {
+      "title": "Electronics and Control Systems",
+      "topics": [
+        {
+          "title": "Microcontroller Basics",
+          "type": "instruction",
+          "path": "instruction/microcontroller-basics/microcontroller-basics.md",
+          "id": "2c278174dc574fbc83f277f0fafcad74",
+          "state": "stub",
+          "description": "Introduction to microcontrollers and their applications."
+        },
+        {
+          "title": "Sensor Integration",
+          "type": "instruction",
+          "path": "instruction/sensor-integration/sensor-integration.md",
+          "id": "ea4eebd52f5748e8bb8a6ddc6c915789",
+          "state": "stub",
+          "description": "Using sensors to detect and respond to environmental changes."
+        },
+        {
+          "title": "Actuator Control",
+          "type": "instruction",
+          "path": "instruction/actuator-control/actuator-control.md",
+          "id": "e335fce9040441edac302256ae88eaa4",
+          "state": "stub",
+          "description": "Controlling motors, solenoids, and other actuators."
+        },
+        {
+          "title": "Power Supply Design",
+          "type": "instruction",
+          "path": "instruction/power-supply-design/power-supply-design.md",
+          "id": "0aae3a7c260843cf8faccb09a2800964",
+          "state": "stub",
+          "description": "Designing a reliable power supply for the electronics."
+        },
+        {
+          "title": "Circuit Design and Analysis",
+          "type": "instruction",
+          "path": "instruction/circuit-design-and-analysis/circuit-design-and-analysis.md",
+          "id": "60240ff3d47647a3b701c7acf85673a4",
+          "state": "stub",
+          "description": "Designing and analyzing electronic circuits."
+        },
+        {
+          "title": "Communication Protocols",
+          "type": "instruction",
+          "path": "instruction/communication-protocols/communication-protocols.md",
+          "id": "1439c27f73a7458487f41086f87dfe80",
+          "state": "stub",
+          "description": "Implementing communication between different electronic components."
+        },
+        {
+          "title": "Wireless Communication",
+          "type": "instruction",
+          "path": "instruction/wireless-communication/wireless-communication.md",
+          "id": "28ce060d3c624ea79aaf1c9d0b9a05bb",
+          "state": "stub",
+          "description": "Integrating wireless communication for remote control."
+        },
+        {
+          "title": "Embedded Programming",
+          "type": "instruction",
+          "path": "instruction/embedded-programming/embedded-programming.md",
+          "id": "dfd02fffc5c246bda6775f9937681dd1",
+          "state": "stub",
+          "description": "Programming microcontrollers for specific tasks."
+        },
+        {
+          "title": "PID Control",
+          "type": "instruction",
+          "path": "instruction/pid-control/pid-control.md",
+          "id": "aaf1c26afdc94acb8644ca913b13b24c",
+          "state": "stub",
+          "description": "Implementing PID control for precise actuator control."
+        },
+        {
+          "title": "PCB Design",
+          "type": "instruction",
+          "path": "instruction/pcb-design/pcb-design.md",
+          "id": "af2114b20010455cbbd647d96fec4895",
+          "state": "stub",
+          "description": "Designing printed circuit boards for electronic components."
+        },
+        {
+          "title": "Quiz 3: Electronics and Control Systems",
+          "type": "instruction",
+          "path": "instruction/quiz-3-electronics-and-control-systems/quiz-3-electronics-and-control-systems.md",
+          "id": "e0282030a0a041cdbf6b8933c433212e",
+          "state": "stub",
+          "description": "Evaluate your understanding of the electronics involved."
+        }
+      ]
+    },
+    {
+      "title": "Software Development for Launcher Control",
+      "topics": [
+        {
+          "title": "Programming Languages for Embedded Systems",
+          "type": "instruction",
+          "path": "instruction/programming-languages-for-embedded-systems/programming-languages-for-embedded-systems.md",
+          "id": "8a61a18cf5d34f778d1d919777482723",
+          "state": "stub",
+          "description": "Overview of suitable programming languages."
+        },
+        {
+          "title": "User Interface Design",
+          "type": "instruction",
+          "path": "instruction/user-interface-design/user-interface-design.md",
+          "id": "0f1072d35b5343c0b372d1d8dc914caa",
+          "state": "stub",
+          "description": "Creating a user-friendly interface for controlling the launcher."
+        },
+        {
+          "title": "Data Acquisition and Processing",
+          "type": "instruction",
+          "path": "instruction/data-acquisition-and-processing/data-acquisition-and-processing.md",
+          "id": "140d62eea95c46428fec3483a3158766",
+          "state": "stub",
+          "description": "Acquiring and processing data from sensors."
+        },
+        {
+          "title": "Control Algorithms",
+          "type": "instruction",
+          "path": "instruction/control-algorithms/control-algorithms.md",
+          "id": "c1ddbb753dff4dbdb864725f4e8a8a43",
+          "state": "stub",
+          "description": "Implementing algorithms for precise control of the launcher."
+        },
+        {
+          "title": "Software Testing and Debugging",
+          "type": "instruction",
+          "path": "instruction/software-testing-and-debugging/software-testing-and-debugging.md",
+          "id": "f2d0dec36b5b432797a3f9f6b77ab3d1",
+          "state": "stub",
+          "description": "Testing and debugging the software to ensure reliability."
+        },
+        {
+          "title": "Real-Time Operating Systems (RTOS)",
+          "type": "instruction",
+          "path": "instruction/real-time-operating-systems-rtos/real-time-operating-systems-rtos.md",
+          "id": "3f1dd859d19b4f8989d0a1614a777e48",
+          "state": "stub",
+          "description": "Using RTOS for real-time control of the launcher."
+        },
+        {
+          "title": "Version Control with Git",
+          "type": "instruction",
+          "path": "instruction/version-control-with-git/version-control-with-git.md",
+          "id": "0b39f2058b33434a8ddaa8b668ac3984",
+          "state": "stub",
+          "description": "Managing software development with Git."
+        },
+        {
+          "title": "Code Optimization",
+          "type": "instruction",
+          "path": "instruction/code-optimization/code-optimization.md",
+          "id": "999dbc03af714d9fb4281603c4de3e02",
+          "state": "stub",
+          "description": "Optimizing code for performance and efficiency."
+        },
+        {
+          "title": "Error Handling",
+          "type": "instruction",
+          "path": "instruction/error-handling/error-handling.md",
+          "id": "daf5e506d77644a8965c78c9553b5542",
+          "state": "stub",
+          "description": "Implementing robust error handling in the software."
+        },
+        {
+          "title": "Software Documentation",
+          "type": "instruction",
+          "path": "instruction/software-documentation/software-documentation.md",
+          "id": "4b7da2a7f0a342dd85cff520a61f7c5d",
+          "state": "stub",
+          "description": "Creating clear and concise software documentation."
+        },
+        {
+          "title": "Quiz 4: Software Development for Launcher Control",
+          "type": "instruction",
+          "path": "instruction/quiz-4-software-development-for-launcher-control/quiz-4-software-development-for-launcher-control.md",
+          "id": "ea6e3492cd6a49b2ad6d676aa4a11e27",
+          "state": "stub",
+          "description": "Verify your understanding of the software components."
+        }
+      ]
+    },
+    {
+      "title": "Manufacturing and Assembly",
+      "topics": [
+        {
+          "title": "3D Printing Techniques",
+          "type": "instruction",
+          "path": "instruction/3d-printing-techniques/3d-printing-techniques.md",
+          "id": "b9645ac6d3d24f978fa6d95a236d7bbd",
+          "state": "stub",
+          "description": "Using 3D printing for manufacturing launcher parts."
+        },
+        {
+          "title": "CNC Machining Basics",
+          "type": "instruction",
+          "path": "instruction/cnc-machining-basics/cnc-machining-basics.md",
+          "id": "c3828a224c0a486f8146bbf74a33dd49",
+          "state": "stub",
+          "description": "Introduction to CNC machining for precision parts."
+        },
+        {
+          "title": "Laser Cutting",
+          "type": "instruction",
+          "path": "instruction/laser-cutting/laser-cutting.md",
+          "id": "a82a1d8bcb6e44f0b8e2507c0e7f26e1",
+          "state": "stub",
+          "description": "Using laser cutting for creating flat parts."
+        },
+        {
+          "title": "Injection Molding",
+          "type": "instruction",
+          "path": "instruction/injection-molding/injection-molding.md",
+          "id": "dedd46eee7b64410acba04eb870b72cf",
+          "state": "stub",
+          "description": "Introduction to injection molding for mass production."
+        },
+        {
+          "title": "Assembly Procedures",
+          "type": "instruction",
+          "path": "instruction/assembly-procedures/assembly-procedures.md",
+          "id": "55a31ce54d98490f825ae0517f8f6ff7",
+          "state": "stub",
+          "description": "Detailed procedures for assembling the launcher components."
+        },
+        {
+          "title": "Soldering Techniques",
+          "type": "instruction",
+          "path": "instruction/soldering-techniques/soldering-techniques.md",
+          "id": "5d36b4bd23f64653b15ce8d09b9e00e6",
+          "state": "stub",
+          "description": "Soldering electronic components for reliable connections."
+        },
+        {
+          "title": "Wiring and Cabling",
+          "type": "instruction",
+          "path": "instruction/wiring-and-cabling/wiring-and-cabling.md",
+          "id": "ab384fb70ab34de58b92f0efd950f4b9",
+          "state": "stub",
+          "description": "Proper wiring and cabling techniques for the electronics."
+        },
+        {
+          "title": "Surface Finishing",
+          "type": "instruction",
+          "path": "instruction/surface-finishing/surface-finishing.md",
+          "id": "651a5d918cdd4fb7bc42045446d3edbe",
+          "state": "stub",
+          "description": "Applying surface finishes to improve appearance and durability."
+        },
+        {
+          "title": "Quality Control",
+          "type": "instruction",
+          "path": "instruction/quality-control/quality-control.md",
+          "id": "211ba4b992fe4602b2b3118d5fbc0cd0",
+          "state": "stub",
+          "description": "Implementing quality control measures during manufacturing."
+        },
+        {
+          "title": "Bill of Materials (BOM)",
+          "type": "instruction",
+          "path": "instruction/bill-of-materials-bom/bill-of-materials-bom.md",
+          "id": "b76682379a9e44eb9964c56b58e2d7da",
+          "state": "stub",
+          "description": "Creating a comprehensive bill of materials for the launcher."
+        },
+        {
+          "title": "Quiz 5: Manufacturing and Assembly",
+          "type": "instruction",
+          "path": "instruction/quiz-5-manufacturing-and-assembly/quiz-5-manufacturing-and-assembly.md",
+          "id": "fec1c38abe064dcb841fe8cf2b586f09",
+          "state": "stub",
+          "description": "Test your knowledge of the manufacturing process."
+        }
+      ]
+    },
+    {
+      "title": "Testing and Calibration",
+      "topics": [
+        {
+          "title": "Performance Metrics",
+          "type": "instruction",
+          "path": "instruction/performance-metrics/performance-metrics.md",
+          "id": "00ac53af04c94e01945eb8371d3481d2",
+          "state": "stub",
+          "description": "Defining key performance metrics for the launcher."
+        },
+        {
+          "title": "Data Acquisition Systems",
+          "type": "instruction",
+          "path": "instruction/data-acquisition-systems/data-acquisition-systems.md",
+          "id": "056aadd6ca58420f932b6c7afd772201",
+          "state": "stub",
+          "description": "Using data acquisition systems for testing."
+        },
+        {
+          "title": "Calibration Procedures",
+          "type": "instruction",
+          "path": "instruction/calibration-procedures/calibration-procedures.md",
+          "id": "94f25001446a4c00adfee677c8d25c75",
+          "state": "stub",
+          "description": "Procedures for calibrating the launcher's control system."
+        },
+        {
+          "title": "Accuracy and Precision",
+          "type": "instruction",
+          "path": "instruction/accuracy-and-precision/accuracy-and-precision.md",
+          "id": "098cdf1a7e8345e282114d5d57982bbe",
+          "state": "stub",
+          "description": "Evaluating the accuracy and precision of the launcher."
+        },
+        {
+          "title": "Repeatability and Reliability",
+          "type": "instruction",
+          "path": "instruction/repeatability-and-reliability/repeatability-and-reliability.md",
+          "id": "e05cb856771f4c658743e6206cea6db9",
+          "state": "stub",
+          "description": "Assessing the repeatability and reliability of the launcher."
+        },
+        {
+          "title": "Environmental Testing",
+          "type": "instruction",
+          "path": "instruction/environmental-testing/environmental-testing.md",
+          "id": "66a29a9b33c0439abfac31da53e20aa4",
+          "state": "stub",
+          "description": "Testing the launcher under different environmental conditions."
+        },
+        {
+          "title": "Failure Analysis",
+          "type": "instruction",
+          "path": "instruction/failure-analysis/failure-analysis.md",
+          "id": "9cdfe899bfe741e2a137aefb0c9401e6",
+          "state": "stub",
+          "description": "Analyzing failures to identify design flaws."
+        },
+        {
+          "title": "Statistical Analysis",
+          "type": "instruction",
+          "path": "instruction/statistical-analysis/statistical-analysis.md",
+          "id": "759c997a0e1e4773a7094ae000dd1cb8",
+          "state": "stub",
+          "description": "Using statistical analysis for performance evaluation."
+        },
+        {
+          "title": "Documentation of Test Results",
+          "type": "instruction",
+          "path": "instruction/documentation-of-test-results/documentation-of-test-results.md",
+          "id": "771999b3db2f4fca88ad29d769752feb",
+          "state": "stub",
+          "description": "Documenting all test results and observations."
+        },
+        {
+          "title": "Root Cause Analysis",
+          "type": "instruction",
+          "path": "instruction/root-cause-analysis/root-cause-analysis.md",
+          "id": "734c5db1e8fd469eab8745af471281a9",
+          "state": "stub",
+          "description": "Identifying the root causes of performance issues."
+        },
+        {
+          "title": "Quiz 6: Testing and Calibration",
+          "type": "instruction",
+          "path": "instruction/quiz-6-testing-and-calibration/quiz-6-testing-and-calibration.md",
+          "id": "28c9fec6d9104b34a6787fdda16a36c8",
+          "state": "stub",
+          "description": "Assess your understanding of testing and calibration processes."
+        }
+      ]
+    },
+    {
+      "title": "Optimization and Advanced Techniques",
+      "topics": [
+        {
+          "title": "Trajectory Optimization",
+          "type": "instruction",
+          "path": "instruction/trajectory-optimization/trajectory-optimization.md",
+          "id": "2edcc448ed7d440b8c3da35ed60012b8",
+          "state": "stub",
+          "description": "Optimizing the trajectory of the projectile."
+        },
+        {
+          "title": "Advanced Control Algorithms",
+          "type": "instruction",
+          "path": "instruction/advanced-control-algorithms/advanced-control-algorithms.md",
+          "id": "2a51388464144ea9bc8189e27c352895",
+          "state": "stub",
+          "description": "Implementing advanced control algorithms for improved accuracy."
+        },
+        {
+          "title": "Machine Learning for Launcher Control",
+          "type": "instruction",
+          "path": "instruction/machine-learning-for-launcher-control/machine-learning-for-launcher-control.md",
+          "id": "5b782a45ff4c4fad96d4e683d9686e9a",
+          "state": "stub",
+          "description": "Using machine learning to improve launcher performance."
+        },
+        {
+          "title": "Finite Element Analysis (FEA)",
+          "type": "instruction",
+          "path": "instruction/finite-element-analysis-fea/finite-element-analysis-fea.md",
+          "id": "e242ced07ca9488389f12a316b32984f",
+          "state": "stub",
+          "description": "Using FEA for detailed stress and strain analysis."
+        },
+        {
+          "title": "Computational Fluid Dynamics (CFD)",
+          "type": "instruction",
+          "path": "instruction/computational-fluid-dynamics-cfd/computational-fluid-dynamics-cfd.md",
+          "id": "9e6fcd6928ba4d7c828f4b03c12b0658",
+          "state": "stub",
+          "description": "Using CFD to analyze aerodynamic performance."
+        },
+        {
+          "title": "Miniaturization Techniques",
+          "type": "instruction",
+          "path": "instruction/miniaturization-techniques/miniaturization-techniques.md",
+          "id": "86d1c313409d48a7bd9e0f4de4e8c106",
+          "state": "stub",
+          "description": "Techniques for miniaturizing the launcher design."
+        },
+        {
+          "title": "Power Management",
+          "type": "instruction",
+          "path": "instruction/power-management/power-management.md",
+          "id": "a33889b24f2b4bfe9549dc1a0e752700",
+          "state": "stub",
+          "description": "Optimizing power consumption for battery-powered launchers."
+        },
+        {
+          "title": "Advanced Materials",
+          "type": "instruction",
+          "path": "instruction/advanced-materials/advanced-materials.md",
+          "id": "6b075dc49d284f5fb17d96556b85c63c",
+          "state": "stub",
+          "description": "Exploring advanced materials for improved performance."
+        },
+        {
+          "title": "Adaptive Control Systems",
+          "type": "instruction",
+          "path": "instruction/adaptive-control-systems/adaptive-control-systems.md",
+          "id": "c74b90e65b594db99518e5f43ea565fd",
+          "state": "stub",
+          "description": "Implementing adaptive control systems for changing conditions."
+        },
+        {
+          "title": "Advanced Sensor Technologies",
+          "type": "instruction",
+          "path": "instruction/advanced-sensor-technologies/advanced-sensor-technologies.md",
+          "id": "3a81826c611d4860910148e21c3769d7",
+          "state": "stub",
+          "description": "Utilizing advanced sensor technologies for improved feedback."
+        },
+        {
+          "title": "Quiz 7: Optimization and Advanced Techniques",
+          "type": "instruction",
+          "path": "instruction/quiz-7-optimization-and-advanced-techniques/quiz-7-optimization-and-advanced-techniques.md",
+          "id": "86c4173c8ace4580ba94e04b6d5ce676",
+          "state": "stub",
+          "description": "Check your understanding of advanced optimization concepts."
+        }
+      ]
+    },
+    {
+      "title": "Capstone Project: v3 Turbo Mouse Launcher",
+      "topics": [
+        {
+          "title": "Project Planning and Design",
+          "type": "instruction",
+          "path": "instruction/project-planning-and-design/project-planning-and-design.md",
+          "id": "e9a67a6dd9b642aea50d45faef252591",
+          "state": "stub",
+          "description": "Developing a detailed project plan and design specifications."
+        },
+        {
+          "title": "Component Selection and Procurement",
+          "type": "instruction",
+          "path": "instruction/component-selection-and-procurement/component-selection-and-procurement.md",
+          "id": "30ec6b7245844a4c9ccf0fbc88923d1d",
+          "state": "stub",
+          "description": "Selecting and procuring the necessary components for the project."
+        },
+        {
+          "title": "Manufacturing and Assembly",
+          "type": "instruction",
+          "path": "instruction/manufacturing-and-assembly/manufacturing-and-assembly.md",
+          "id": "3421cceeb73e4698928e9a056f7d96db",
+          "state": "stub",
+          "description": "Manufacturing and assembling the launcher components."
+        },
+        {
+          "title": "Software Development and Integration",
+          "type": "instruction",
+          "path": "instruction/software-development-and-integration/software-development-and-integration.md",
+          "id": "71c70b8e00a64d779892d360d0d0f53c",
+          "state": "stub",
+          "description": "Developing and integrating the software for controlling the launcher."
+        },
+        {
+          "title": "Testing and Calibration",
+          "type": "instruction",
+          "path": "instruction/testing-and-calibration/testing-and-calibration.md",
+          "id": "c97c9dfd3c4a472f99e309753fd016f9",
+          "state": "stub",
+          "description": "Testing and calibrating the launcher for optimal performance."
+        },
+        {
+          "title": "Documentation and Reporting",
+          "type": "instruction",
+          "path": "instruction/documentation-and-reporting/documentation-and-reporting.md",
+          "id": "3a1efdaef4a7495c836d5cea5f0e4f59",
+          "state": "stub",
+          "description": "Documenting the entire project and preparing a final report."
+        },
+        {
+          "title": "Project Presentation",
+          "type": "instruction",
+          "path": "instruction/project-presentation/project-presentation.md",
+          "id": "b03a4a330227430dbac734ebee674234",
+          "state": "stub",
+          "description": "Presenting the project and demonstrating its capabilities."
+        },
+        {
+          "title": "Troubleshooting and Debugging",
+          "type": "instruction",
+          "path": "instruction/troubleshooting-and-debugging/troubleshooting-and-debugging.md",
+          "id": "e26f4569578c49e4b86d0a2fc9d9ebe6",
+          "state": "stub",
+          "description": "Identifying and resolving any issues encountered during the project."
+        },
+        {
+          "title": "Design Optimization",
+          "type": "instruction",
+          "path": "instruction/design-optimization/design-optimization.md",
+          "id": "a898ca07b5f043eebd3f605616165347",
+          "state": "stub",
+          "description": "Optimizing the launcher design based on testing results."
+        },
+        {
+          "title": "Future Improvements",
+          "type": "instruction",
+          "path": "instruction/future-improvements/future-improvements.md",
+          "id": "804b1875bea14938957a3117da2fbc75",
+          "state": "stub",
+          "description": "Identifying potential future improvements and enhancements."
+        },
+        {
+          "title": "Final Project Submission",
+          "type": "instruction",
+          "path": "instruction/final-project-submission/final-project-submission.md",
+          "id": "3ea19849d5ab49a8bcd5002939757a5a",
+          "state": "stub",
+          "description": "Submit your final project report and code."
+        }
+      ]
+    }
+  ]
+}
